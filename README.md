@@ -1,6 +1,6 @@
 # update_local_db
 
-`update-local-db` is command line application for updating your local Postgres database using a
+`update-local-db` is command line application for updating a local Postgres database using a
 downloaded backup of the remote db from a Heroku app.
 
 It basically uses pg_dump and pg_restore commands.
